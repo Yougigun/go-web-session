@@ -1,3 +1,3 @@
 # go-web-session
-- session package implement interface of operation session
-- memory package implmentt driver for session to use
+1. session package implement interface of operation session
+2. memory package implmentt driver for session to use
