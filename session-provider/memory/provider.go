@@ -2,7 +2,7 @@ package memory
 
 import (
 	"fmt"
-	s "golang-web-dev/030_sessions/02-1_session/session"
+	s "github.com/yougigun/go-web-session/session"
 	"time"
 )
 

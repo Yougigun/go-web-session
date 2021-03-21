@@ -3,8 +3,8 @@ package main
 import (
 	"html/template"
 	"net/http"
-	"golang-web-dev/030_sessions/02-1_session/session"
-	_ "golang-web-dev/030_sessions/02-1_session/session-provider/memory"
+	"github.com/yougigun/go-web-session/session"
+	_ "github.com/yougigun/go-web-session/session-provider/memory"
 
 )
 
